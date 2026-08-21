@@ -1,6 +1,6 @@
 # Morten Anholt Huvestad
 
-morten26sfj@protonmail.com · +47 958 31 225 · Stokke, Vestfold
+morten26sfj at protonmail dot com · +47 958 31 225 · Stokke, Vestfold
 
 **Søker:** Junior-/traineestilling innen programvareutvikling (C#/.NET, web)
 
